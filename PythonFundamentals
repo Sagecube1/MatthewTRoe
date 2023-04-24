@@ -1,0 +1,21 @@
+45 + 72
+117
+
+x = 7
+
+y = 3
+
+x + y
+10
+
+total = x + y
+
+type(x)
+int
+
+type(12.7)
+float
+
+total = 10.7 + 12.2 + 0.2
+total
+23.1
